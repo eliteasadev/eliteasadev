@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning **AWS**
 
-- 🤝 This is my first open source project [Astro Molecules Modeler](https://github.com/eliteasadev/astro-molecules-modeler)
+- 🤝 This is my first open source project [Astro Molecules Modeler](https://modeler.wutri.com/)
 
-- 👨‍💻 All of my projects are available at [https://eliteasadev-blog.vercel.app](https://eliteasadev-blog.vercel.app)
+- 👨‍💻 All of my projects are available at [https://blog.wutri.com/](https://blog.wutri.com/)
 
 - 💬 Ask me about **Astro, Express, Nextjs, Prisma, React & Supabase**
 
